@@ -26,7 +26,7 @@ This is a simple, responsive calculator built using **HTML**, **CSS**, and **Van
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/calculator.git
+   git clone https://github.com/yahya-moussair/calculator.git
    cd vanilla-js-calculator
 
 ## 📁 Project Structure
