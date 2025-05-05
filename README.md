@@ -26,7 +26,7 @@ This is a simple, responsive calculator built using **HTML**, **CSS**, and **Van
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/vanilla-js-calculator.git
+   git clone https://github.com/yourusername/calculator.git
    cd vanilla-js-calculator
 
 ## 📁 Project Structure
@@ -34,8 +34,8 @@ This is a simple, responsive calculator built using **HTML**, **CSS**, and **Van
 ```text
 vanilla-js-calculator/
 ├── index.html        # Main HTML structure
-├── style.css         # Calculator styling
-├── script.js         # JavaScript logic
+├── public/css/app.css         # Calculator styling
+├── public/js/app.js         # JavaScript logic
 ├── README.md         # Project documentation
 └── screenshot.png    # Optional image for preview
 ```
